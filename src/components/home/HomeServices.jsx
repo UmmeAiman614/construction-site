@@ -15,7 +15,7 @@ const services = [
     title: "Construction",
     description:
       "We provide reliable construction services with innovative solutions.",
-    link: "#",
+    link: "/service",
   },
   {
     id: 2,
@@ -24,7 +24,7 @@ const services = [
     title: "Architecture",
     description:
       "Creative and modern architectural designs tailored to your needs.",
-    link: "#",
+    link: "/service",
   },
   {
     id: 3,
@@ -33,7 +33,7 @@ const services = [
     title: "Sustainability",
     description:
       "Eco-friendly projects focused on sustainability and safety.",
-    link: "#",
+    link: "/service",
   },
   {
     id: 4,
@@ -42,7 +42,7 @@ const services = [
     title: "Maintenance",
     description:
       "Reliable maintenance services to keep your property in top condition.",
-    link: "#",
+    link: "/service",
   },
   {
     id: 5,
@@ -51,7 +51,7 @@ const services = [
     title: "Interior Design",
     description:
       "Modern and stylish interior solutions for homes and businesses.",
-    link: "#",
+    link: "/service",
   },
 ];
 

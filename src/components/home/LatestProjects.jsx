@@ -88,7 +88,7 @@ const LatestProjects = () => {
                     </h3>
                     <p className="text-brown mb-6">{project.description}</p>
                     <Link
-                      to={`/projects/${project.id}`}
+                      to={`/project`}
                       className="inline-block bg-orange text-cream px-6 py-2 rounded-xl shadow-md hover:bg-yellow hover:text-brown transition-all duration-300"
                     >
                       View More →
